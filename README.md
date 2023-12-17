@@ -4,4 +4,4 @@
 
 ### Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@LukasZahradnik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@LukasZahradnik/0" alt="Recent Article 0"> 
+[Beyond Transformers with PyNeuraLogic](https://medium.com/towards-data-science/beyond-transformers-with-pyneuralogic-10b70cdc5e45)
